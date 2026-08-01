@@ -1,42 +1,41 @@
 # Smart Energy Analytics
 
-## Overview
+## Project Overview
 
-This project predicts daily household energy consumption using smart meter data and weather information.
+This project predicts household electricity consumption using machine learning and the London Smart Meter Dataset.
 
-## Dataset
+## Features
 
-London Smart Meter Dataset
+- Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Correlation Heatmap
+- Weather Data Integration
+- Household Information Integration
+- Holiday Analysis
+- Random Forest Regression
+- Model Evaluation
 
-## Technologies
+## Technologies Used
 
 - Python
 - Pandas
 - NumPy
-- Scikit-learn
 - Matplotlib
 - Seaborn
+- Scikit-learn
+- Jupyter Notebook
 
-## Workflow
+## Dataset
 
-- Data Cleaning
-- Feature Engineering
-- Exploratory Data Analysis
-- Machine Learning
-- Model Evaluation
+London Smart Meter Dataset (not included due to GitHub file size limits).
 
-## Models
+## Machine Learning Model
 
-- Linear Regression
-- Decision Tree
-- Random Forest
+Random Forest Regressor
 
 ## Evaluation Metrics
 
 - MAE
 - RMSE
 - R² Score
-
-## Output
-
-Predicts daily electricity consumption.
